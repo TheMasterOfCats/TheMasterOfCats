@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm a young dev from Poland 🇵🇱<br><br>- 🔭 I’m working on <a href="https://dc.karpikmc.pl/">KarpikMC.pl</a><br>- 📚 I'm currently learning Java and Arduino Development<br></p>
+<p align="left">I'm a young dev from Poland 🇵🇱<br><br>- 🔭 I’m working on <a href="https://dc.karpikmc.pl/">KarpikMC.pl</a><br>- 📚 I'm currently learning Java (mostly Minecraft plugin development) and Arduino Development<br></p>
 
 ###
 
